@@ -1,0 +1,24 @@
+[submodule "Admin"]
+	path = Admin
+	url = https://github.com/Event-driven-microservices/Admin.git
+[submodule "Api-Gateway"]
+	path = Api-Gateway
+	url = https://github.com/Event-driven-microservices/Api-Gateway.git
+[submodule "Eureka"]
+	path = Eureka
+	url = https://github.com/Event-driven-microservices/Eureka.git
+[submodule "Config-server"]
+	path = Config-server
+	url = https://github.com/Event-driven-microservices/Config-server.git
+[submodule "Payment"]
+	path = Payment
+	url = https://github.com/Event-driven-microservices/Payment.git
+[submodule "Inventory"]
+	path = Inventory
+	url = https://github.com/Event-driven-microservices/Inventory.git
+[submodule "Order"]
+	path = Order
+	url = https://github.com/Event-driven-microservices/Order.git
+[submodule "Config"]
+	path = Config
+	url = https://github.com/Event-driven-microservices/Config.git
