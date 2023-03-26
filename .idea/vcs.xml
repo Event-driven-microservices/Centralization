@@ -2,5 +2,13 @@
 <project version="4">
   <component name="VcsDirectoryMappings">
     <mapping directory="" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Admin" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Api-Gateway" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Config" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Config-server" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Eureka" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Inventory" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Order" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Payment" vcs="Git" />
   </component>
 </project>
